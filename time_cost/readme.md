@@ -1,4 +1,4 @@
-This file contains experiments of time_cost.
+These files contain experiments of time_cost.
 
 You should first shuffle the Tmall.txt and HKtVmall.txt to get a Tmall_shuffle.txt and HKTVmall_shuffle.txt.
 
