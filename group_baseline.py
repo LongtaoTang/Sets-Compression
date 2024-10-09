@@ -45,13 +45,13 @@ if __name__ == '__main__':
     num_item = 1368   # Tmall, 8 * 171
     # num_item = 4632  # HKTVmall, 8 * 579
 
-    seed = 42
-    print(seed)
-    random.seed(seed)
-    np.random.seed(seed)
-    permutation = random.sample(range(num_item), k=num_item)
+    # seed = 42
+    # print(seed)
+    # random.seed(seed)
+    # np.random.seed(seed)
+    # permutation = random.sample(range(num_item), k=num_item)
 
-    # permutation = list(range(num_item))
+    permutation = list(range(num_item))
 
     length = group_based_length(source_file_path, permutation, group_size=8, num_item=num_item)
     print(length)
