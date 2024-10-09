@@ -16,7 +16,7 @@ some commonly used functions
 ### generating_polynomial.py: 
 - def build_root(NUM_ITEM, file_path): it build the binary trees, which will output Tmall_root.pickle or HKTVmall_root.pickle.
 
-- if __name__ == '__main__': it calculates the file size by binary tree model.
+- if __name__ == '__main__': it calculates the file size by binary tree model. (Ours)
 
 ### bits-back performance.py: 
 calculate the performance of the bits-back method
@@ -32,3 +32,9 @@ calculate the performance of the group-based method
 
 ### size_distribution.py
 it checks the size distribution and draws figures: Tmall1.png, Tmall2.png, Tmall3.png, HKTVmall1.png, HKTVmall2.png, HKTVmall3.png
+
+## other file
+
+Tmall_root.pickle and HKTVmall_root.pickle are binary trees. 
+
+Tmall1.png, Tmall2.png, Tmall3.png, HKTVmall1.png, HKTVmall2.png, and HKTVmall3.png are figures of size distribution.
