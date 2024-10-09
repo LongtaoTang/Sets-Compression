@@ -2,7 +2,8 @@
 ## dictionary
 
 ### stanford_compression_library
-The entropy coding interface is from the stanford_compression_library. <[https://markdown.com.cn](https://github.com/kedartatwawadi/stanford_compression_library)>
+The entropy coding interface is from the stanford_compression_library. <https://github.com/kedartatwawadi/stanford_compression_library>
+
 This file is a cloned version of stanford_compression_library.
 
 ### dataset
