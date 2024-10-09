@@ -13,7 +13,7 @@ This dictionary is a cloned version of stanford_compression_library.
 ### dataset
 it contains the information of datasets.
 
-## time_cost
+### time_cost
 it contains the experiments about encoding and decoding times.
 
 ## codes
