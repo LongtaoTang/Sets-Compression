@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: stanford-compression-library
+Version: 0.0.1
+Summary: A library of common compressors
+Author: Kedar Tatwawadi, Shubham Chandak, Pulkit Tandon
+Author-email: ktatwawadi@gmail.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: pytest
+Requires-Dist: numpy
+Requires-Dist: bitarray
+Requires-Dist: zstandard

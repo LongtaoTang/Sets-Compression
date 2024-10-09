@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+stanford_compression_library.egg-info/PKG-INFO
+stanford_compression_library.egg-info/SOURCES.txt
+stanford_compression_library.egg-info/dependency_links.txt
+stanford_compression_library.egg-info/requires.txt
+stanford_compression_library.egg-info/top_level.txt
