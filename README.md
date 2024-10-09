@@ -1,5 +1,10 @@
 # Sets-Compression
 ## dictionary
+
+### stanford_compression_library
+The entropy coding interface is from the stanford_compression_library. <[https://markdown.com.cn](https://github.com/kedartatwawadi/stanford_compression_library)>
+This file is a cloned version of stanford_compression_library.
+
 ### dataset
 it contains the information of datasets.
 
@@ -17,6 +22,12 @@ calculate the performance of the bits-back method
 
 ### single_based_length.py: 
 calculate the performance of the single-item-based method
+
+### Makov.py
+calculate the performance of the Makov-based method
+
+### group_baseline.py
+calculate the performance of the group-based method
 
 ### size_distribution.py
 it checks the size distribution and draws figures: Tmall1.png, Tmall2.png, Tmall3.png, HKTVmall1.png, HKTVmall2.png, HKTVmall3.png
