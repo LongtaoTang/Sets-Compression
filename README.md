@@ -1,13 +1,20 @@
 # Sets-Compression
+The required package: tqdm, numpy, matplotlib, pickle.
+
+We used python 3.9, but the other version is fine.
+
 ## dictionary
 
 ### stanford_compression_library
 The entropy coding interface is from the stanford_compression_library. <https://github.com/kedartatwawadi/stanford_compression_library>
 
-This file is a cloned version of stanford_compression_library.
+This dictionary is a cloned version of stanford_compression_library.
 
 ### dataset
 it contains the information of datasets.
+
+## time_cost
+it contains the experiments about encoding and decoding times.
 
 ## codes
 ### utility.py
@@ -33,7 +40,7 @@ calculate the performance of the group-based method
 ### size_distribution.py
 it checks the size distribution and draws figures: Tmall1.png, Tmall2.png, Tmall3.png, HKTVmall1.png, HKTVmall2.png, HKTVmall3.png
 
-## other file
+## other files
 
 Tmall_root.pickle and HKTVmall_root.pickle are binary trees. 
 
