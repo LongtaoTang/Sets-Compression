@@ -20,15 +20,15 @@ it contains the experiments about encoding and decoding times.
 ### utility.py
 some commonly used functions
 
-### generating_polynomial.py: 
+### generating_polynomial.py
 - def build_root(NUM_ITEM, file_path): it build the binary trees, which will output Tmall_root.pickle or HKTVmall_root.pickle.
 
 - if __name__ == '__main__': it calculates the file size by binary tree model. (Ours)
 
-### bits-back performance.py: 
+### bits-back performance.py
 calculate the performance of the bits-back method
 
-### single_based_length.py: 
+### single_based_length.py
 calculate the performance of the single-item-based method
 
 ### Makov.py
