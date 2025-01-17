@@ -17,11 +17,6 @@ if __name__ == '__main__':
     contingency_path = "HKTVmall_contingency_table_dataset.pickle"
     result_path = "HKTVmall_result_dataset.pickle"
 
-    # pair_path = "HKTVmall_pairs_close.pickle"
-    # data_path = "../dataset/HKTVmall.txt"
-    # contingency_path = "HKTVmall_contingency_table_dataset_close.pickle"
-    # result_path = "HKTVmall_result_dataset_close.pickle"
-
     f = open(pair_path, 'rb')
     pair_list = pickle.load(f)
     contingency_table_list = []
