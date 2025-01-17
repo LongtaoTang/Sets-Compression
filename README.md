@@ -16,6 +16,12 @@ it contains the information of datasets.
 ### time_cost
 it contains the experiments about encoding and decoding times.
 
+### Independence
+we conduct the chi-square independence test on the dataset without conditions.
+
+### conditional_independence
+we conduct the chi-square independence test on the dataset with conditions.
+
 ## codes
 ### utility.py
 some commonly used functions
