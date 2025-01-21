@@ -6,7 +6,7 @@ We used python 3.9, but the other version is fine.
 ## dictionary
 
 ### Documents
-This dictionary contains the proof of NP-hardness on the improved coding method and more information on baselines.
+This dictionary contains the proof of NP-hardness on the improved coding method and more documents.
 
 ### stanford_compression_library
 The entropy coding interface is from the stanford_compression_library. <https://github.com/kedartatwawadi/stanford_compression_library>
