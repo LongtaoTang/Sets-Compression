@@ -47,7 +47,7 @@ calculate the performance of the Makov-based method
 calculate the performance of the group-based method
 
 ### size_distribution.py
-it checks the size distribution and draws figures: Tmall1.png, Tmall2.png, Tmall3.png, HKTVmall1.png, HKTVmall2.png, HKTVmall3.png
+it checks the size distribution
 
 ## other files
 
