@@ -22,9 +22,6 @@ we conduct the chi-square independence test on the dataset without conditions.
 ### conditional_independence
 we conduct the chi-square independence test on the dataset with conditions.
 
-### Extra_Appendix
-it contains the proof of the NP-hardness on optimality of improved coding method.
-
 ## codes
 ### utility.py
 some commonly used functions
